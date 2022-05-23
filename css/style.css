@@ -16,8 +16,8 @@
     font-family: Pokemon;
     /*src: url(/assets/fonts/Pokemon\ Hollow.ttf);
     src: url(/assets/fonts/Pokemon\ Solid.ttf);*/
-    src: url(fonts/Pokemon\ Hollow.ttf);
-    src: url(fonts/Pokemon\ Solid.ttf);
+    src: url(/fonts/Pokemon\ Hollow.ttf);
+    src: url(/fonts/Pokemon\ Solid.ttf);
 }
 
 * {
@@ -27,7 +27,7 @@
 
 body {
     /*background-image: url(/assets/img/120422-Pokemon-748x421.jpg);*/
-    background-image: url(img/120422-Pokemon-748x421.jpg);
+    background-image: url(/img/120422-Pokemon-748x421.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'VT323', monospace;
